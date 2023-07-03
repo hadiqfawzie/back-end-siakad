@@ -1,6 +1,6 @@
 {
   "name": "first-app",
-  "version": "1.0.0",
+  "version": 2,
   "description": "kuliahBackEnd",
   "main": "index.js",
   "engines" : {"node" :"16.x"},
